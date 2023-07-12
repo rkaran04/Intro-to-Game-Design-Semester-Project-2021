@@ -1,4 +1,4 @@
-# Intro-to-Game-Design-Semester-Project-2021-
+# Intro-to-Game-Design-Semester-Project-2021
 Semester project offered by GameDev society
 
 ## **Aim of the Project**
